@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-23T11:30:07.999Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36" etag="W237gk2SmMNbV0oe9ygf" version="20.8.23" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-02-23T11:33:00.964Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36" etag="9AsVul8j2RMdzgYO9fUx" version="20.8.23" type="github" pages="3">
   <diagram name="硬件框图" id="90a13364-a465-7bf4-72fc-28e22215d7a0">
     <mxGraphModel dx="1050" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -172,12 +172,14 @@
             <mxPoint x="660" y="365" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VnM-jycL1btq2EZlnA_B-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="VnM-jycL1btq2EZlnA_B-27" edge="1">
+        <mxCell id="VnM-jycL1btq2EZlnA_B-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="420" y="290" as="targetPoint" />
+            <mxPoint x="411" y="290" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="560" y="340" />
               <mxPoint x="560" y="290" />
             </Array>
+            <mxPoint x="561" y="340" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VnM-jycL1btq2EZlnA_B-35" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="VnM-jycL1btq2EZlnA_B-34" vertex="1" connectable="0">
