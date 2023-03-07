@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-07T12:15:45.772Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36" etag="Hmwm2VjRGS53HzZIO8o9" version="21.0.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-03-07T12:15:51.481Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36" etag="gk7J7Uhcr8p9A8yVZBcR" version="21.0.2" type="github" pages="3">
   <diagram name="硬件框图" id="90a13364-a465-7bf4-72fc-28e22215d7a0">
     <mxGraphModel dx="1050" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -250,7 +250,7 @@
         <mxCell id="YRM48q875nKBUgsAkrKd-11" value="数据导出到U盘" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBackgroundColor=none;fillColor=#56517E;strokeColor=#EEEEEE;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="364" y="520" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="YRM48q875nKBUgsAkrKd-22" value="注：&lt;br&gt;1、上电前先把U盘插入USB接口；&lt;br&gt;2、操作过程中有蜂鸣音提示及LED灯的提示。" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;align=left;rounded=1;labelBackgroundColor=none;fillColor=#999999;strokeColor=#EEEEEE;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="YRM48q875nKBUgsAkrKd-22" value="注：&lt;br&gt;1、上电前先把U盘插入USB接口；&lt;br&gt;2、操作过程中有蜂鸣音提示及LED灯的提示。" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;align=left;rounded=1;labelBackgroundColor=none;fillColor=#56517E;strokeColor=#EEEEEE;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="200" y="40" width="110" height="200" as="geometry" />
         </mxCell>
         <mxCell id="YRM48q875nKBUgsAkrKd-23" value="待机" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBackgroundColor=none;fillColor=#56517E;strokeColor=#EEEEEE;fontColor=#FFFFFF;" parent="1" vertex="1">
