@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-26T11:25:46.993Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36" etag="wAEC_tAyN6pMzujiD3PF" version="21.1.1" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-03-26T11:26:14.922Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36" etag="3PmsHWDLTiQB9-DLReaB" version="21.1.1" type="github" pages="5">
   <diagram name="硬件框图" id="90a13364-a465-7bf4-72fc-28e22215d7a0">
     <mxGraphModel dx="1050" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -453,7 +453,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="kg8pYQCrIdqOXNMVLQ3J-1" value="所有功能都是由主控软件控制" style="whiteSpace=wrap;html=1;shadow=1;fontSize=20;strokeWidth=2;dashed=1;labelBackgroundColor=none;rounded=1;fillColor=#56517E;strokeColor=#EEEEEE;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="kg8pYQCrIdqOXNMVLQ3J-1" value="所有功能都是由主控软件控制" style="whiteSpace=wrap;html=1;shadow=1;fontSize=20;strokeWidth=2;dashed=1;labelBackgroundColor=none;rounded=1;fillColor=#0000FF;strokeColor=#EEEEEE;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="797" y="344" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kg8pYQCrIdqOXNMVLQ3J-2" style="edgeStyle=elbowEdgeStyle;rounded=1;html=1;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;fontSize=18;elbow=vertical;labelBackgroundColor=none;fontColor=default;strokeColor=#182E3E;" edge="1" parent="1" source="kg8pYQCrIdqOXNMVLQ3J-5" target="kg8pYQCrIdqOXNMVLQ3J-8">
